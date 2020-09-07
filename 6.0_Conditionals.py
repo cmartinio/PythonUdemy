@@ -3,7 +3,7 @@
 """
 Created on Thu Oct 17 11:19:29 2019
 
-@author: Giles
+@author: Christian Martin
 """
 
 # BOOLEAN EXPRESSIONS
