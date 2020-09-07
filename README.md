@@ -1,2 +1,2 @@
 # PythonUdemy
-Various project from the Udemy couraw
+Various project from the Udemy course
